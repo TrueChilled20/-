@@ -1,5 +1,7 @@
 # -avax
 # -ORDI
+# -SOL
+
 
 
 
